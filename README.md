@@ -2,10 +2,17 @@
 
 From `print("Hello, World!")` to deployed models — explained from first principles, not just demonstrated.
 
-**Written by Rifat Sarkar & Claude**
+**Author: Rifat Sarkar**
+*AI-assisted development: Claude (Anthropic)*
 
-📘 [**Read the full designed PDF**](./book.pdf) — cover, table of contents, chapter dashboards, syntax-highlighted code, the works.
+📘 [**Read the full designed PDF**](./A%20Practical%20Guide%20Python%20Machine%20Learning.pdf) — cover, table of contents, chapter dashboards, syntax-highlighted code, the works.
 📂 Or browse the chapters below as plain Markdown.
+
+---
+
+## AI Assistance Disclosure
+
+Claude (Anthropic) was used as an AI-assisted tool during the development of this book for brainstorming, drafting, editing, explanation refinement, and other development tasks. The author is responsible for the final content, technical accuracy, organization, and revisions of the book.
 
 ---
 

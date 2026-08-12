@@ -1,6 +1,14 @@
 # Python & Machine Learning: The Complete Guide
 ### From Your First Line of Code to Building Neural Networks
 
+**Author: Rifat Sarkar**
+
+---
+
+## AI Assistance Disclosure
+
+Claude (Anthropic) was used as an AI-assisted tool during the development of this book for brainstorming, drafting, editing, explanation refinement, and other development tasks. The author is responsible for the final content, technical accuracy, organization, and revisions of the book.
+
 ---
 
 ## How This Book Is Organized
